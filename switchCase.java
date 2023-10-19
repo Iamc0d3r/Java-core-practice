@@ -1,7 +1,7 @@
 class switchCase{
 	public static void main(String[] args){
 		int a = 5;
-		switch (a){
+		switch (a){ //giving condition to get result
 		case 1 :
 		System.out.println("found match");
 		break;
@@ -24,3 +24,5 @@ class switchCase{
 	}
 	
 }
+
+// case keyword is for matching result
