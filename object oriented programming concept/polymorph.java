@@ -14,3 +14,6 @@ class polymorph{
 		t.m1();
 	}
 }
+
+//This is method overriding. 
+//m1() method is decalerd and defined again times with same parameters.
