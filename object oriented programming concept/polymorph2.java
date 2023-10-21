@@ -18,3 +18,5 @@ class polymorph2{
 		t.m1(4,6);
 	}
 }
+//This is method overloading. 
+//m1() method is decalerd and defined again times with different parameters.
